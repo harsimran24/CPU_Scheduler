@@ -37,6 +37,6 @@ Visit the **[CPU Scheduler Simulation Website](https://da111003.github.io/CPU_Sc
 This project is licensed under the MIT License.
 
 ## Contact<br>
-You can reach me via email at <aggarwald241@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/deepakaggarwal111003/). Feedback, suggestions, and opportunities for collaboration are always welcome!
+You can reach me via email at <dhillonharsimran84@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/harsimran-singh-dhillon/). Feedback, suggestions, and opportunities for collaboration are always welcome!
 
 Thank you for visiting. Enjoy exploring the projects!
