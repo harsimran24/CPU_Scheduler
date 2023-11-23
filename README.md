@@ -3,7 +3,7 @@
 ## Overview<br>
 The CPU Scheduler Simulation Website offers an interactive platform that allows users to explore and simulate various CPU scheduling algorithms. It covers popular algorithms such as First Come First Serve (FCFS), Shortest Job First (SJF), Round Robin (RR), Shortest Remaining Time First (SRTF), Priority, and more.
 
-<img width="1427" alt="Screenshot 2023-09-11 at 4 09 51 AM" src="https://github.com/da111003/CPU_Scheduler/assets/79132054/926277f8-2692-4d04-836a-4455c179ad37">
+<img width="1438" alt="Screenshot 2023-11-24 at 12 21 02 AM" src="https://github.com/harsimran24/CPU_Scheduler/assets/72410763/974549f4-5106-44c4-970b-e0c6c5ddbb70">
 
 ## Key Features<br>
 1. User-Friendly Interface: The website provides a simple and intuitive interface where users can easily input their own data related to processes. This includes arrival time, burst time, priority, and time quantum.
@@ -31,7 +31,7 @@ The CPU Scheduler Simulation Website offers an interactive platform that allows 
 ## Conclusion<br>
 The CPU Scheduler Simulation Website is a valuable resource for learning about CPU scheduling algorithms. Its interactive nature, real-time visualization, and customization options make it a powerful tool for students, educators, and professionals alike. By providing practical insights into the functioning of various scheduling algorithms, the platform empowers users to make informed decisions when dealing with real-world CPU scheduling scenarios.
 
-Visit the **[CPU Scheduler Simulation Website](https://da111003.github.io/CPU_Scheduler/)** and start exploring the world of CPU scheduling algorithms today!
+Visit the **[CPU Scheduler Simulation Website](https://harsimran24.github.io/CPU_Scheduler/)** and start exploring the world of CPU scheduling algorithms today!
 
 ## License<br>
 This project is licensed under the MIT License.
